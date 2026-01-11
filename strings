@@ -1,0 +1,29 @@
+#!/usr/bin/python3 
+
+greetings='hello world'
+print(greetings)
+print(len(greetings))
+lst=[1,2,3,4,'a','b']
+print(lst)
+add=5+2
+print(greetings ,'\n', add)
+print(greetings[10])
+print(greetings[::])
+print(greetings[::2])
+s='good morning'
+s=s+'how are you'
+print(s)
+greetings=greetings ,  'how are you'
+print(greetings)
+happy='i love lesson'
+print(happy)
+print(len(happy))
+print(happy[3])
+print(happy[::1])
+home='come'
+print(home)
+print(home ,'\n',happy)
+print(home[2])
+d='comearound'
+print(d)
+print(d ,'\n' ,greetings)
