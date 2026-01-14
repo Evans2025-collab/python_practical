@@ -1,29 +1,18 @@
-#!/usr/bin/python3 
-
-greetings='hello world'
-print(greetings)
-print(len(greetings))
-lst=[1,2,3,4,'a','b']
-print(lst)
-add=5+2
-print(greetings ,'\n', add)
-print(greetings[10])
-print(greetings[::])
-print(greetings[::2])
-s='good morning'
-s=s+'how are you'
-print(s)
-greetings=greetings ,  'how are you'
-print(greetings)
-happy='i love lesson'
-print(happy)
-print(len(happy))
-print(happy[3])
-print(happy[::1])
-home='come'
-print(home)
-print(home ,'\n',happy)
-print(home[2])
-d='comearound'
+#!/usr/bin/python3
+d='happy new year'
 print(d)
-print(d ,'\n' ,greetings)
+print(d[::-1])
+print(d[:3])
+print(d[:4])
+print(d[:6])
+print(d[::-3])
+print(d[9:13])
+name='aron rotich'
+print(name)
+print(len('name'))
+print(name[1])
+print(name[:-3])
+print(name , '\n' + name)
+print(name[6:12])
+
+
