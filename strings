@@ -14,5 +14,59 @@ print(name[1])
 print(name[:-3])
 print(name , '\n' + name)
 print(name[6:12])
+deno='help'
+print(deno)
+hope='numbers of python'
+print(hope+'\n' + d)
+man='runner'
+race=15
+print('he is{runner} {15} race')
+print('the man %s car %s stolen is here,' %('whose','was'))
+lst=[1,2,3,'kiprotich']
+print(len(lst))
+my_list=['one','two','three',4,5]
+print(my_list[1])
+print(my_list[:3])
+print(my_list[1:])
+print(my_list[:2])
+print(my_list[::])
+print(my_list+['kiprotich'])
+print(my_list)
+my_list=my_list+['kiprotich']
+print(my_list)
+print(my_list*3)
+list1=[1,2,3,]
+print(list1)
+list1.append('kiprotich')
+print(list1)
+list1.pop(1)
+print(list1)
+print("the people %s was here".format('per'))
+list1=[1,2]
+print(list1)
+list2=['a','e','x','b','c']
+print(list2)
+list2.reverse()
+print(list2)
+list2.sort()
+print(list2)
+m1=[1,2,3]
+m2=[4,5,6]
+m3=[7,8,9]
+matrix=[m1,m2,m3]
+print(matrix)
+print(matrix[1][1])
+print(matrix[2][2])
+list4=[4,5,6]+['kibet']
+print(list4)
+list4.reverse()
+list4.sort()
+
+    
+
+
+
+
+
 
 
