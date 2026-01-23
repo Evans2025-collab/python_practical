@@ -18,6 +18,17 @@ print(dict5['k1']['nk']['snk'])
 print(dict1.keys())
 print(dict1.values())
 print(dict1.items())
-
+dict8={'come':'fire','kevo':12}
+print(dict8)
+print(dict8['come'])
+dict9={'baby':{'help':{'enter':{'uli'}}}}
+print(dict9)
+dict11={}
+dict11['girl']=12
+dict11['home']='child'
+print(dict11)
+dict14={' student':'age','school':'green valley high'}
+print(dict14)
+print(dict14['student'])
 
 
