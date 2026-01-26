@@ -1,0 +1,9 @@
+student={}
+student['name']='alex'
+student['age']=15
+print(student)
+print(student['age'])
+student.keys()
+print(student.keys())
+
+

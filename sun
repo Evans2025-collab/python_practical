@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+myfile=open('test.txt','r')
+print(myfile.read())
+myfile.close

@@ -1,0 +1,3 @@
+hello this is a qiuck test file
+myfile=open('file.txt')
+
