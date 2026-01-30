@@ -1,0 +1,39 @@
+#!/usr/bin/python3
+
+
+a=2
+b=4
+
+if a>b:
+    print('happy')
+else:
+    print('sad')
+loc='school'
+if loc=='shop':
+    print('welcome to shop')
+elif loc=='bank':
+    print('welcome to bank')
+else: 
+    print('where are you')
+x='false'
+
+if x:
+    print('bad')
+else:
+    print('good')
+loc='bank'
+if loc=='home':
+    print('yes')
+elif loc=='good':
+    print('no')
+else:
+    print('where can i get it')
+a=3
+b=4 
+
+if 4<3:
+    print('nice work')
+else:
+    print('false')
+
+

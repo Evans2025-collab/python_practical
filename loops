@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+
+
+
+key=['man',1,2,3,4,5]
+print(key[3])
